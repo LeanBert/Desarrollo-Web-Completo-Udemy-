@@ -1,0 +1,10 @@
+.saludo-inic{
+    display: flex;
+    margin-left: 500px;
+    color: blanchedalmond;
+}
+
+.back{
+    background: linear-gradient(to top left, blue, green);
+    height: 100%;
+}
