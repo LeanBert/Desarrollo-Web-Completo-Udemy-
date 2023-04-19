@@ -1,0 +1,1 @@
+alert('Bienvendo a mi web =] presione aceptar para continuar');
