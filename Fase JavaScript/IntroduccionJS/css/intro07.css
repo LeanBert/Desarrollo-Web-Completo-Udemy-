@@ -1,0 +1,19 @@
+/* estilos  */
+.back{
+    background-color: cadetblue;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    border: 2px solid black;
+    /* width: 600px; */
+    padding: 20px;
+    margin-top: 20px;
+    color: bisque;
+    text-shadow: 2px 5px 3px black;
+}
+
+
