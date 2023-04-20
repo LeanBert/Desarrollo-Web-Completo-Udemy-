@@ -1,0 +1,10 @@
+/* estilos */
+.back{
+    background-color: violet;  
+}
+
+#title{
+    color: bisque;
+    text-align: center;
+    border: 2px solid black;
+}
